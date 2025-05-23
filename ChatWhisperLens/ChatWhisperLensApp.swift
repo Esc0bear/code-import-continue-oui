@@ -1,9 +1,3 @@
-//
-//  ChatWhisperLensApp.swift
-//  ChatWhisperLens
-//
-//  Created by (RE)SET on 23/05/2025.
-//
 
 import SwiftUI
 
